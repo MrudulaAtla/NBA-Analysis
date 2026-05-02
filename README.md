@@ -1,8 +1,5 @@
 # I Don't Watch Basketball. I Analyzed an Entire NBA Dataset Anyway.
 
-**Mrudula Reddy Atla**  
-Data Analyst | MS CS @ UC Santa Cruz | SQL | Python | Tableau | Excel
-
 ---
 
 ## View the Full Tableau Story
@@ -164,7 +161,13 @@ Second, team-building philosophies are more extreme than you'd expect, Memphis h
 
 Third, Nikola Jokić is doing something the data says almost nobody else does, leading all Centers in assists by a margin so large it barely looks like the same sport. His bubble on Chart 2 sits somewhere it has no right to be. That's the most memorable thing I found in this entire dataset.
 
+
+---
+
 To any basketball fans reading — if I've misread anything, please correct me in the comments. I'm learning the sport through its data, and getting things wrong is part of the process.
+
+
+---
 
 Thank you for reading!
 
